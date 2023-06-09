@@ -5,5 +5,5 @@
 Условие задачи:
 https://gitlab.zvonok.in/-/snippets/28
 
-first_task - Решение первой задачи
+first_task - Решение первой задачи \n
 second_task - Решение второй задачи
